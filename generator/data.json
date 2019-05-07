@@ -1,0 +1,95 @@
+{
+
+    "components" : {
+        "contract" :{
+            "1.4.1":{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":"./contract/javascript/release-1.4/index.html"
+                  },
+                  "javascript":{
+                      "url":"./contract/javascript/release-1.4/index.html"
+                  },
+                  "golang":{
+                      "url":"https://godoc.org/github.com/hyperledger/fabric/core/chaincode/shim"
+                  }   
+            },
+            "2.0.0-alpha":{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":"./contract/javascript/master/index.html"
+                  },
+                  "javascript":{
+                      "url":".contract/javascript//master/index.html"
+                  },
+                  "golang":{
+                      "url":""
+                  }   
+            },
+            "master" :{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":"./contract/javascript/master/index.html"
+                  },
+                  "javascript":{
+                      "url":"./contract/javascript/master/index.html"
+                  },
+                  "golang":{
+                      "url":""
+                  }   
+            }
+
+        },
+        "sdk":{
+            "1.4.1":{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":"https://fabric-sdk-node.github.io/release-1.4/index.html"
+                  },
+                  "javascript":{
+                      "url":"https://fabric-sdk-node.github.io/release-1.4/index.html"
+                  },
+                  "golang":{
+                      "url":""
+                  }   
+            },
+            "2.0.0-alpha":{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":""
+                  },
+                  "javascript":{
+                      "url":""
+                  },
+                  "golang":{
+                      "url":""
+                  }   
+            },
+            "master" :{
+                "java": {
+                    "url":""
+                  }, 
+                  "typescript":{            
+                      "url":"https://fabric-sdk-node.github.io/master/index.html"
+                  },
+                  "javascript":{
+                      "url":"https://fabric-sdk-node.github.io/master/index.html"
+                  },
+                  "golang":{
+                      "url":""
+                  }   
+            }
+        }
+    }
+
+}
